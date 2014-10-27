@@ -2,6 +2,7 @@
     <NamedLayer>
         <Name>mtkshp250k:tieviiva</Name>
         <UserStyle xmlns="http://www.opengis.net/sld">
+            <IsDefault>1</IsDefault>
             <FeatureTypeStyle>
             <Rule>
             <ogc:Filter>
